@@ -2,7 +2,7 @@ Presentation_Projet
 ===================
 
 Pour ce projet j'ai decidé de prendre un TP que j'ai fais en cours qui fonctionne dans un environnement web/explorateur bien sur et qui est codé en php.
-Le TP se decompose en plusieurs exercices differents dans le dossier www.
+Le TP se decompose en plusieurs exercices differents dans le dossier "www".
 
 
 Utilisation
